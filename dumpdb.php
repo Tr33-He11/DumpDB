@@ -86,6 +86,7 @@ if (isset($_POST['submit']) && $_POST['submit'] == 'dump'){
 	<title>mysql dump database</title>
 </head>
 <body>
+<h2>blog: http://www.evalshell.com</h2>
 <form action="" method="POST">
 	<table>
 		<tr>
